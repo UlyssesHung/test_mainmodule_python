@@ -1,0 +1,3 @@
+[submodule "test_submodule_python"]
+	path = test_submodule_python
+	url = https://github.com/UlyssesHung/test_submodule_python
